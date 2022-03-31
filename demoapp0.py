@@ -27,7 +27,7 @@ fig.update_layout(
 
 app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
     html.H1(
-        children='Hello Dash',
+        children='Дядя Женя всех пожетит, переженит, выженит',
         style={
             'textAlign': 'center',
             'color': colors['text']
